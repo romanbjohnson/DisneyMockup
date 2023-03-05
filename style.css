@@ -1,12 +1,29 @@
-.boxImg{
-background-color: white;
-font-size: 50%;
-font-family: 'Avenir Next';
-color: black; 
+.navbarleftContainer{
+    background-color: white;
+    border-bottom: 10px;
+    border-color: white;
+
 }
+
+.boxImg{
+    background-color: white;
+    text-align: left; 
+    font-family: 'Avenir Next';
+    color: black; 
+}
+
 
 .disneylogo{
     background-color: white;
-    font-size: 0px;
-    
+    width: 10px;
+    height: 10px;
+    text-align: left  
     }
+
+
+.boxText {
+    background-color: white;
+    text-align: right; 
+}
+
+
