@@ -1,17 +1,12 @@
 .navbarleftContainer{
     background-color: white;
-    border-bottom: 10px;
+    border-bottom: 5px;
     border-color: white;
+    border-bottom: 0.5px solid black;
+
+    
 
 }
-
-.boxImg{
-    background-color: white;
-    text-align: left; 
-    font-family: 'Avenir Next';
-    color: black; 
-}
-
 
 .disneylogo{
     background-color: white;
@@ -20,10 +15,66 @@
     text-align: left  
     }
 
+.boxImg{
+    background-color: white;
+    text-align: left; 
+    border-style: black;
+    font-family: 'Avenir Next';
+    color: black; 
+    
+}
+
+
 
 .boxText {
     background-color: white;
     text-align: right; 
 }
+
+.mandalorianContainer{
+border-top: 1px solid; color: black;
+
+
+
+}
+
+.mandovideo{
+    display: 100%;
+}
+
+
+.optionsContainer {
+    display: grid; 
+    row-gap: 100px;
+
+}
+
+  .debo1{
+   
+    display:flex; 
+    justify-content:space-evenly
+
+  }
+
+  .debo2{
+    display:flex; 
+    justify-content:space-evenly
+
+  }
+
+
+  .debo3{
+    display:flex; 
+    justify-content:space-evenly
+
+
+  }
+
+
+  .debo4{
+       display:flex; 
+    justify-content:space-evenly
+
+  }
 
 
